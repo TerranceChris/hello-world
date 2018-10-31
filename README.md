@@ -1,2 +1,4 @@
 # hello-world
-this repository is ..
+
+
+This is my first message in github!
